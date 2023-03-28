@@ -1,2 +1,2 @@
-# Biodata-Git-Pesilat
+# Biodata Git Pesilat
 Tugas Biodata Git untuk materikulasi pesilat
